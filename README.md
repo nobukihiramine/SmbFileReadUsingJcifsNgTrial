@@ -13,6 +13,11 @@ Nobuki HIRAMINE : [http://www.hiramine.com](http://www.hiramine.com)
 
 ## License : ライセンス
 ```
+cifs-ng is licensed under the LGPL-2.1 License
+Copyright © 2016, Rowan Manning
+```
+
+```
 Copyright 2022 Nobuki HIRAMINE
 
 Licensed under the Apache License, Version 2.0 (the "License");
